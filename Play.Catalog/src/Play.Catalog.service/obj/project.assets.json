@@ -209,19 +209,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\au_ne\\.nuget\\packages\\": {}
+    "C:\\Users\\496932\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\Learning\\dotnet_microservices\\projects\\Play.Catalog\\src\\Play.Catalog.service\\Play.Catalog.service.csproj",
+      "projectUniqueName": "C:\\Users\\496932\\OneDrive - Alstom\\Learning\\dotnet_microservices\\projects\\Play.Catalog\\src\\Play.Catalog.service\\Play.Catalog.service.csproj",
       "projectName": "Play.Catalog.service",
-      "projectPath": "G:\\Learning\\dotnet_microservices\\projects\\Play.Catalog\\src\\Play.Catalog.service\\Play.Catalog.service.csproj",
-      "packagesPath": "C:\\Users\\au_ne\\.nuget\\packages\\",
-      "outputPath": "G:\\Learning\\dotnet_microservices\\projects\\Play.Catalog\\src\\Play.Catalog.service\\obj\\",
+      "projectPath": "C:\\Users\\496932\\OneDrive - Alstom\\Learning\\dotnet_microservices\\projects\\Play.Catalog\\src\\Play.Catalog.service\\Play.Catalog.service.csproj",
+      "packagesPath": "C:\\Users\\496932\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\496932\\OneDrive - Alstom\\Learning\\dotnet_microservices\\projects\\Play.Catalog\\src\\Play.Catalog.service\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\au_ne\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\496932\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

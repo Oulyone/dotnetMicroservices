@@ -31,3 +31,36 @@ G:\Learning\dotnet_microservices\projects\Play.Catalog\src\Play.Catalog.service\
 G:\Learning\dotnet_microservices\projects\Play.Catalog\src\Play.Catalog.service\obj\Debug\net5.0\Play.Catalog.service.pdb
 G:\Learning\dotnet_microservices\projects\Play.Catalog\src\Play.Catalog.service\obj\Debug\net5.0\Play.Catalog.service.genruntimeconfig.cache
 G:\Learning\dotnet_microservices\projects\Play.Catalog\src\Play.Catalog.service\obj\Debug\net5.0\ref\Play.Catalog.service.dll
+C:\Users\496932\OneDrive - Alstom\Learning\dotnet_microservices\projects\Play.Catalog\src\Play.Catalog.service\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\496932\OneDrive - Alstom\Learning\dotnet_microservices\projects\Play.Catalog\src\Play.Catalog.service\bin\Debug\net5.0\appsettings.json
+C:\Users\496932\OneDrive - Alstom\Learning\dotnet_microservices\projects\Play.Catalog\src\Play.Catalog.service\bin\Debug\net5.0\Play.Catalog.service.exe
+C:\Users\496932\OneDrive - Alstom\Learning\dotnet_microservices\projects\Play.Catalog\src\Play.Catalog.service\bin\Debug\net5.0\Play.Catalog.service.deps.json
+C:\Users\496932\OneDrive - Alstom\Learning\dotnet_microservices\projects\Play.Catalog\src\Play.Catalog.service\bin\Debug\net5.0\Play.Catalog.service.runtimeconfig.json
+C:\Users\496932\OneDrive - Alstom\Learning\dotnet_microservices\projects\Play.Catalog\src\Play.Catalog.service\bin\Debug\net5.0\Play.Catalog.service.runtimeconfig.dev.json
+C:\Users\496932\OneDrive - Alstom\Learning\dotnet_microservices\projects\Play.Catalog\src\Play.Catalog.service\bin\Debug\net5.0\Play.Catalog.service.dll
+C:\Users\496932\OneDrive - Alstom\Learning\dotnet_microservices\projects\Play.Catalog\src\Play.Catalog.service\bin\Debug\net5.0\Play.Catalog.service.pdb
+C:\Users\496932\OneDrive - Alstom\Learning\dotnet_microservices\projects\Play.Catalog\src\Play.Catalog.service\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\496932\OneDrive - Alstom\Learning\dotnet_microservices\projects\Play.Catalog\src\Play.Catalog.service\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\496932\OneDrive - Alstom\Learning\dotnet_microservices\projects\Play.Catalog\src\Play.Catalog.service\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\496932\OneDrive - Alstom\Learning\dotnet_microservices\projects\Play.Catalog\src\Play.Catalog.service\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\496932\OneDrive - Alstom\Learning\dotnet_microservices\projects\Play.Catalog\src\Play.Catalog.service\obj\Debug\net5.0\Play.Catalog.service.csproj.AssemblyReference.cache
+C:\Users\496932\OneDrive - Alstom\Learning\dotnet_microservices\projects\Play.Catalog\src\Play.Catalog.service\obj\Debug\net5.0\Play.Catalog.service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\496932\OneDrive - Alstom\Learning\dotnet_microservices\projects\Play.Catalog\src\Play.Catalog.service\obj\Debug\net5.0\Play.Catalog.service.AssemblyInfoInputs.cache
+C:\Users\496932\OneDrive - Alstom\Learning\dotnet_microservices\projects\Play.Catalog\src\Play.Catalog.service\obj\Debug\net5.0\Play.Catalog.service.AssemblyInfo.cs
+C:\Users\496932\OneDrive - Alstom\Learning\dotnet_microservices\projects\Play.Catalog\src\Play.Catalog.service\obj\Debug\net5.0\Play.Catalog.service.csproj.CoreCompileInputs.cache
+C:\Users\496932\OneDrive - Alstom\Learning\dotnet_microservices\projects\Play.Catalog\src\Play.Catalog.service\obj\Debug\net5.0\Play.Catalog.service.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\496932\OneDrive - Alstom\Learning\dotnet_microservices\projects\Play.Catalog\src\Play.Catalog.service\obj\Debug\net5.0\Play.Catalog.service.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\496932\OneDrive - Alstom\Learning\dotnet_microservices\projects\Play.Catalog\src\Play.Catalog.service\obj\Debug\net5.0\scopedcss\bundle\Play.Catalog.service.styles.css
+C:\Users\496932\OneDrive - Alstom\Learning\dotnet_microservices\projects\Play.Catalog\src\Play.Catalog.service\obj\Debug\net5.0\staticwebassets\Play.Catalog.service.StaticWebAssets.Manifest.cache
+C:\Users\496932\OneDrive - Alstom\Learning\dotnet_microservices\projects\Play.Catalog\src\Play.Catalog.service\obj\Debug\net5.0\staticwebassets\Play.Catalog.service.StaticWebAssets.Pack.cache
+C:\Users\496932\OneDrive - Alstom\Learning\dotnet_microservices\projects\Play.Catalog\src\Play.Catalog.service\obj\Debug\net5.0\staticwebassets\msbuild.Play.Catalog.service.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\496932\OneDrive - Alstom\Learning\dotnet_microservices\projects\Play.Catalog\src\Play.Catalog.service\obj\Debug\net5.0\staticwebassets\msbuild.build.Play.Catalog.service.props
+C:\Users\496932\OneDrive - Alstom\Learning\dotnet_microservices\projects\Play.Catalog\src\Play.Catalog.service\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.Play.Catalog.service.props
+C:\Users\496932\OneDrive - Alstom\Learning\dotnet_microservices\projects\Play.Catalog\src\Play.Catalog.service\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.Play.Catalog.service.props
+C:\Users\496932\OneDrive - Alstom\Learning\dotnet_microservices\projects\Play.Catalog\src\Play.Catalog.service\obj\Debug\net5.0\Play.Catalog.service.RazorTargetAssemblyInfo.cache
+C:\Users\496932\OneDrive - Alstom\Learning\dotnet_microservices\projects\Play.Catalog\src\Play.Catalog.service\obj\Debug\net5.0\Play.Catalog.service.csproj.CopyComplete
+C:\Users\496932\OneDrive - Alstom\Learning\dotnet_microservices\projects\Play.Catalog\src\Play.Catalog.service\obj\Debug\net5.0\Play.Catalog.service.dll
+C:\Users\496932\OneDrive - Alstom\Learning\dotnet_microservices\projects\Play.Catalog\src\Play.Catalog.service\obj\Debug\net5.0\refint\Play.Catalog.service.dll
+C:\Users\496932\OneDrive - Alstom\Learning\dotnet_microservices\projects\Play.Catalog\src\Play.Catalog.service\obj\Debug\net5.0\Play.Catalog.service.pdb
+C:\Users\496932\OneDrive - Alstom\Learning\dotnet_microservices\projects\Play.Catalog\src\Play.Catalog.service\obj\Debug\net5.0\Play.Catalog.service.genruntimeconfig.cache
+C:\Users\496932\OneDrive - Alstom\Learning\dotnet_microservices\projects\Play.Catalog\src\Play.Catalog.service\obj\Debug\net5.0\ref\Play.Catalog.service.dll

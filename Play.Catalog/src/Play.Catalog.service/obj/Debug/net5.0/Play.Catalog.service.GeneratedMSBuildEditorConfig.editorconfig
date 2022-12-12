@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Play.Catalog.service
-build_property.ProjectDir = G:\Learning\dotnet_microservices\projects\Play.Catalog\src\Play.Catalog.service\
+build_property.ProjectDir = c:\Users\496932\OneDrive - Alstom\Learning\dotnet_microservices\projects\Play.Catalog\src\Play.Catalog.service\
