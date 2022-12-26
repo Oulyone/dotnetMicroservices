@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\496932\\OneDrive - Alstom\\Learning\\dotnet_microservices\\projects\\Play.Catalog\\src\\Play.Catalog.service\\Play.Catalog.service.csproj": {}
+    "G:\\Learning\\dotnetMicroservices\\Play.Catalog\\src\\Play.Catalog.service\\Play.Catalog.service.csproj": {}
   },
   "projects": {
-    "C:\\Users\\496932\\OneDrive - Alstom\\Learning\\dotnet_microservices\\projects\\Play.Catalog\\src\\Play.Catalog.service\\Play.Catalog.service.csproj": {
+    "G:\\Learning\\dotnetMicroservices\\Play.Catalog\\src\\Play.Catalog.service\\Play.Catalog.service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\496932\\OneDrive - Alstom\\Learning\\dotnet_microservices\\projects\\Play.Catalog\\src\\Play.Catalog.service\\Play.Catalog.service.csproj",
+        "projectUniqueName": "G:\\Learning\\dotnetMicroservices\\Play.Catalog\\src\\Play.Catalog.service\\Play.Catalog.service.csproj",
         "projectName": "Play.Catalog.service",
-        "projectPath": "C:\\Users\\496932\\OneDrive - Alstom\\Learning\\dotnet_microservices\\projects\\Play.Catalog\\src\\Play.Catalog.service\\Play.Catalog.service.csproj",
-        "packagesPath": "C:\\Users\\496932\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\496932\\OneDrive - Alstom\\Learning\\dotnet_microservices\\projects\\Play.Catalog\\src\\Play.Catalog.service\\obj\\",
+        "projectPath": "G:\\Learning\\dotnetMicroservices\\Play.Catalog\\src\\Play.Catalog.service\\Play.Catalog.service.csproj",
+        "packagesPath": "C:\\Users\\au_ne\\.nuget\\packages\\",
+        "outputPath": "G:\\Learning\\dotnetMicroservices\\Play.Catalog\\src\\Play.Catalog.service\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\496932\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\au_ne\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -44,6 +40,10 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "dependencies": {
+            "MongoDB.Driver": {
+              "target": "Package",
+              "version": "[2.18.0, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[5.6.3, )"
