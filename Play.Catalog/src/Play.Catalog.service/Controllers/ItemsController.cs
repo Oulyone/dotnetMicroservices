@@ -11,12 +11,7 @@ namespace Play.Catalog.Service.Controllers
   [Route("items")]
   public class ItemController : ControllerBase
   {
-    private static readonly List<ItemDto> items = new()
-    {
-      new ItemDto(Guid.NewGuid(), "Potion", "Restores a small amount of HP", 5, DateTimeOffset.UtcNow),
-      new ItemDto(Guid.NewGuid(), "Antidote", "Cures poison", 7, DateTimeOffset.UtcNow),
-      new ItemDto(Guid.NewGuid(), "Bronze sword", "Deals a small amount of damage", 20, DateTimeOffset.UtcNow),
-    };
+    
 
     // GET /items
     [HttpGet]
@@ -27,9 +22,14 @@ namespace Play.Catalog.Service.Controllers
 
     // GET /items/{id}
     [HttpGet("{id}")]
-    public ItemDto GetById(Guid id)
+    public ActionResult<ItemDto> GetById(Guid id)
     {
       var item = items.Where(item => item.Id == id).SingleOrDefault();
+
+      if(item == null) {
+        return NotFound();
+      }
+
       return item;
     }
 
@@ -49,6 +49,10 @@ namespace Play.Catalog.Service.Controllers
     {
       var existingItem = items.Where(item => item.Id == id).SingleOrDefault();
 
+      if (existingItem == null) {
+        return NotFound();
+      }
+
       var updatedItem = existingItem with
       {
         Name = updateItemDto.Name,
@@ -67,8 +71,13 @@ namespace Play.Catalog.Service.Controllers
     public IActionResult Delete(Guid id)
     {
       var index = items.FindIndex(existingItem => existingItem.Id == id);
-      items.RemoveAt(index);
 
+      if (index < 0) {
+        return NotFound();
+      }
+      
+      items.RemoveAt(index);
+      
       return NoContent();
     }
   }
